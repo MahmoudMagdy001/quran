@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'core/screens/sura_list.dart';
+import 'screens/sura_list.dart';
 
 void main() {
   runApp(const MyApp());
